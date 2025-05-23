@@ -1,4 +1,4 @@
-**Geliştirilmiyor**
+$${\color{red}Geliştirilmiyor.}$$
 
 
 Prooyun Skin Arama Aracı
