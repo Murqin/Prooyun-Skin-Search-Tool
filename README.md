@@ -1,3 +1,6 @@
+**Geliştirilmiyor**
+
+
 Prooyun Skin Arama Aracı
 Bu araç, Prooyun sunucularındaki skin changer kullanımını basitleştiren, Python ile geliştirilmiş ve JSON verisi tabanlı çalışan bir arama aracıdır. Kullanıcılar, silah ve skin bilgilerini hızlı bir şekilde arayarak, gerekli kodları kolayca bulabilir ve kullanabilir.
 
